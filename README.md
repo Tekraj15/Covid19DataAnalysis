@@ -1,2 +1,2 @@
 # Tensorflow_chapterwise
-Chapter Wise Tutorial of Tensorflow Framework with complete Programming implementation
+Chapter Wise Tutorials of Tensorflow Framework for beginners with complete Programming implementation
